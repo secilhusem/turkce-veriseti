@@ -1,4 +1,4 @@
-# turkce-veriseti
+# Türkçe Veriseti
 Türkçe dökümanların sınıflandırılabilmesi amacıyla DMOZ'da indekslenmiş Türkçe web sayfaları ve web sayfalarının içeriklerinden yararlanılarak oluşturulmuş verisetidir.
 
 Bu çalışma Fatih Sultan Mehmet Vakıf Üniversitesi Bilgisayar Mühendisliği yüksek lisans tezi kapsamında "VERİ MADENCİLİĞİ TEKNİKLERİYLE
