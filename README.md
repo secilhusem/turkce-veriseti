@@ -6,7 +6,9 @@ TÜRKÇE WEB SAYFALARININ KATEGORİZE EDİLMESİ" adıyla gerçekleştirilmişti
 
 Kayıt deseni: Ana Kategori, Alt Kategori, Website Adresi,  DMOZ Başlığı, DMOZ Açıklaması, Website Başlığı, Website Meta Açıklaması, Website Meta Kelimeleri, Website İçeriği
 
-UBMK'17'de sözlü sunum ardından IEEE Xplore’de yer alacak ve linki yayınlanacaktır. Kullanıldığı takdirde atıfta bulunulmasını rica ederim.
+UBMK'17'de sözlü sunum gerçekleştirilmiş ve IEEE Xplore’de yayınlanmıştır. Kullanıldığı takdirde atıfta bulunulmasını rica ederim.
+
+http://ieeexplore.ieee.org/abstract/document/8093385/
 
 Seçil ŞEKERCİ HÜSEM
 
